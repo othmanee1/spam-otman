@@ -1,0 +1,10 @@
+flask
+flask-cors
+requests
+urllib3
+httpx
+google-play-scraper
+pycryptodome
+protobuf-decoder
+protobuf
+gunicorn
