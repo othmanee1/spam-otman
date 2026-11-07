@@ -1,7 +1,0 @@
-protobuf>=5.26.0
-requests
-urllib3
-httpx
-google-play-scraper
-pycryptodome
-protobuf-decoder
